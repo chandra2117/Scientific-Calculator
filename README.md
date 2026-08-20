@@ -140,7 +140,10 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
+
 ### Output
 <img width="852" height="1846" alt="image" src="https://github.com/user-attachments/assets/244513bb-8317-420b-a943-dbb042317a4d" />
+
+
 ### Result
 The Scientific Calculator application was successfully developed and executed. The application performs scientific calculations and displays the computed result using a Toast message.
